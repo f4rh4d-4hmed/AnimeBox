@@ -409,7 +409,7 @@ def main():
             check_downloaded_episodes(choice)
             
             while True:
-                episode_choice = input(Fore.LIGHTBLUE_EX + "\nNow Let me know what are the episodes You want to download.\nYou can enter them like: 5,3-7, or 1,2,4\n\n::::").strip()
+                episode_choice = input(Fore.LIGHTBLUE_EX + "\nNow Let me know what are the episodes You want to download.\nYou can enter them like: 5,3-7, or 1,2,4\n\n:::: ").strip()
                 if not episode_choice:
                     print(Fore.LIGHTRED_EX + "You didn't enter any episode numbers. Please try again.")
                     continue
