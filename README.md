@@ -1,6 +1,12 @@
 # AnimeBox
 AnimeBox is a free app designed to help you download your favorite anime with ease. It's perfect for users with slower internet connections and for those who prefer watching anime on a big screen. All the anime are collected from [GogoAnime](https://anitaku.pe/). You need to have to create account to use the app [here.](https://anitaku.pe/register.html)
 
+### CLI [Command-Line-Interface]
+![image](https://github.com/user-attachments/assets/cbe9d3b1-b1ea-4846-a653-0d9692283f0f)
+
+### GUI [Graphical-User-Interface]
+
+
 # Features
   1. Download Anime: Easily download your favorite anime episodes for offline viewing.
   2. Search Anime: Quickly find the anime you're looking for with our powerful search functionality.
