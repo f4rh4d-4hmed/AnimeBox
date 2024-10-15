@@ -44,7 +44,7 @@ class AnimeDownloaderApp:
     def __init__(self, root, email, password):
 
         self.root = root
-        self.root.title("Anime Downloader")
+        self.root.title("AnimeBox")
         self.root.geometry("800x660")
         sv_ttk.set_theme("dark")
 
