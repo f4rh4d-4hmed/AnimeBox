@@ -1,0 +1,9 @@
+tkinter
+requests
+beautifulsoup4
+json5
+tqdm
+pathlib
+colorama
+httpx
+sv_ttk
