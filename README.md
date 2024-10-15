@@ -5,6 +5,8 @@ AnimeBox is a free app designed to help you download your favorite anime with ea
 ![image](https://github.com/user-attachments/assets/cbe9d3b1-b1ea-4846-a653-0d9692283f0f)
 
 ### GUI [Graphical-User-Interface]
+![image](https://github.com/user-attachments/assets/f9cfd9b5-1382-4a4d-bd54-742653c7ae5c)
+
 
 
 # Features
